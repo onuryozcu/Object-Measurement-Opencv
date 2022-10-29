@@ -1,6 +1,5 @@
 # Object-Measurement
 
-# O.M.-Opencv
 
 - 🚀
 
